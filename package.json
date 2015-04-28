@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/raibutera/loopback-connector-orchestrate/issues"
   },
-  "homepage": "https://github.com/raibutera/loopback-connector-orchestrate"
+  "homepage": "https://github.com/raibutera/loopback-connector-orchestrate",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.0.1"
+  }
 }
