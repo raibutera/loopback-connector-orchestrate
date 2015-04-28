@@ -30,5 +30,9 @@
   "homepage": "https://github.com/raibutera/loopback-connector-orchestrate",
   "devDependencies": {
     "cz-conventional-changelog": "^1.0.1"
+  },
+  "dependencies": {
+    "loopback-connector": "^1.2.1",
+    "orchestrate": "^0.4.3"
   }
 }
