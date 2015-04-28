@@ -1,0 +1,31 @@
+{
+  "name": "loopback-connector-orchestrate",
+  "version": "0.0.1",
+  "description": "LoopBack connector for Orchestrate.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raibutera/loopback-connector-orchestrate.git"
+  },
+  "keywords": [
+    "loopback",
+    "orchestrate",
+    "connector",
+    "paas",
+    "dbaas",
+    "database",
+    "search",
+    "elasticsearch",
+    "graph",
+    "graphdb"
+  ],
+  "author": "Rai Butera",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/raibutera/loopback-connector-orchestrate/issues"
+  },
+  "homepage": "https://github.com/raibutera/loopback-connector-orchestrate"
+}
