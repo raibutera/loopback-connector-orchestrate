@@ -24,7 +24,21 @@ Next, attach the created datasource to a model in the `model-config.json` file:
         "dataSource": "orchestrate",
         "public": true
     }
-    
+
+### Custom Endpoints (e.g Using EU West)
+the datasource definition in `datasources.json` supports an (optional) endpoint key. **You must define your endpoint if you use a server other than US East**
+
+EU West example:
+
+```json 
+    "orchestrate": {
+        "name": "orchestrate",
+        "connector": "loopback-connector-orchestrate",
+        "authToken": "YOUR_ORCHESTRATE_AUTH_TOKEN", 
+        "endpoint": "https://api.aws-eu-west-1.orchestrate.io/"
+    }
+```
+
 <!-- Now, using the created model, you can send an SMS or make a call using the `send` method of the model:
     
     orchestrate.send(options, callback);
