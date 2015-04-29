@@ -22,7 +22,7 @@ db.ping().then(function () {
 
 
 db.get('testing', 'foo').then(function (success) {
-    debug('success:', success);
+    debug('success:', success.toJSON());
 }).fail(function (err) {
     debug('error:', err.toJSON());
 });
