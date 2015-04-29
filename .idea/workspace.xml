@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orchestrate.js" afterPath="$PROJECT_DIR$/lib/orchestrate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orctools.js" afterPath="$PROJECT_DIR$/lib/orctools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/sandbox/sandbox.js" afterPath="$PROJECT_DIR$/test/sandbox/sandbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loopback-connector-orchestrate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
           <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8375499">
-                  <caret line="195" column="8" selection-start-line="195" selection-start-column="8" selection-end-line="195" selection-end-column="8" />
+                <state vertical-scroll-proportion="0.36218375">
+                  <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -109,7 +106,7 @@
           <file leaf-file-name="mongodb.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.84116024">
+                <state vertical-scroll-proportion="0.93508285">
                   <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
                   <folding>
                     <element signature="e#241#361#0" expanded="false" />
@@ -562,7 +559,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84116024">
+        <state vertical-scroll-proportion="0.93508285">
           <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
           <folding>
             <element signature="e#241#361#0" expanded="false" />
@@ -619,8 +616,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8375499">
-          <caret line="195" column="8" selection-start-line="195" selection-start-column="8" selection-end-line="195" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.36218375">
+          <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
