@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orchestrate.js" afterPath="$PROJECT_DIR$/lib/orchestrate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orctools.js" afterPath="$PROJECT_DIR$/lib/orctools.js" />
     </list>
     <ignored path="loopback-connector-orchestrate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,13 +28,39 @@
           <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.20372836">
-                  <caret line="228" column="32" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="32" />
+                <state vertical-scroll-proportion="0.5885486">
+                  <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
+                    <element signature="e#342#524#0" expanded="false" />
+                    <element signature="e#598#1006#0" expanded="false" />
+                    <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
                     <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
-                    <element signature="e#5234#6441#0" expanded="false" />
-                    <element signature="e#6625#6784#0" expanded="false" />
+                    <element signature="e#1572#1767#0" expanded="false" />
+                    <element signature="e#1839#2710#0" expanded="false" />
+                    <element signature="e#2713#2854#0" expanded="false" />
+                    <element signature="e#2928#3873#0" expanded="false" />
+                    <element signature="e#3876#3908#0" expanded="false" />
+                    <element signature="e#3980#4119#0" expanded="false" />
+                    <element signature="e#4122#4171#0" expanded="false" />
+                    <element signature="e#4243#5033#0" expanded="false" />
+                    <element signature="e#5035#5173#0" expanded="false" />
+                    <element signature="e#5247#6454#0" expanded="false" />
+                    <element signature="e#6457#6542#0" expanded="false" />
+                    <element signature="e#6638#6797#0" expanded="false" />
+                    <element signature="e#6800#6840#0" expanded="false" />
+                    <element signature="e#6920#8083#0" expanded="false" />
+                    <element signature="e#7017#7061#0" expanded="false" />
+                    <element signature="e#7068#8081#0" expanded="false" />
+                    <element signature="e#8086#8132#0" expanded="false" />
+                    <element signature="e#8208#8347#0" expanded="false" />
+                    <element signature="e#8301#8345#0" expanded="false" />
+                    <element signature="e#8350#8387#0" expanded="false" />
+                    <element signature="e#8476#8628#0" expanded="false" />
+                    <element signature="e#8631#8689#0" expanded="false" />
+                    <element signature="e#8768#8910#0" expanded="false" />
+                    <element signature="e#8913#8972#0" expanded="false" />
+                    <element signature="e#9071#9238#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -483,11 +508,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/orchestrate.js</url>
-          <line>314</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/orchestrate.js</url>
           <line>42</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -500,7 +520,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -630,13 +650,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20372836">
-          <caret line="228" column="32" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.5885486">
+          <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#342#524#0" expanded="false" />
+            <element signature="e#598#1006#0" expanded="false" />
+            <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
             <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
-            <element signature="e#5234#6441#0" expanded="false" />
-            <element signature="e#6625#6784#0" expanded="false" />
+            <element signature="e#1572#1767#0" expanded="false" />
+            <element signature="e#1839#2710#0" expanded="false" />
+            <element signature="e#2713#2854#0" expanded="false" />
+            <element signature="e#2928#3873#0" expanded="false" />
+            <element signature="e#3876#3908#0" expanded="false" />
+            <element signature="e#3980#4119#0" expanded="false" />
+            <element signature="e#4122#4171#0" expanded="false" />
+            <element signature="e#4243#5033#0" expanded="false" />
+            <element signature="e#5035#5173#0" expanded="false" />
+            <element signature="e#5247#6454#0" expanded="false" />
+            <element signature="e#6457#6542#0" expanded="false" />
+            <element signature="e#6638#6797#0" expanded="false" />
+            <element signature="e#6800#6840#0" expanded="false" />
+            <element signature="e#6920#8083#0" expanded="false" />
+            <element signature="e#7017#7061#0" expanded="false" />
+            <element signature="e#7068#8081#0" expanded="false" />
+            <element signature="e#8086#8132#0" expanded="false" />
+            <element signature="e#8208#8347#0" expanded="false" />
+            <element signature="e#8301#8345#0" expanded="false" />
+            <element signature="e#8350#8387#0" expanded="false" />
+            <element signature="e#8476#8628#0" expanded="false" />
+            <element signature="e#8631#8689#0" expanded="false" />
+            <element signature="e#8768#8910#0" expanded="false" />
+            <element signature="e#8913#8972#0" expanded="false" />
+            <element signature="e#9071#9238#0" expanded="false" />
           </folding>
         </state>
       </provider>
