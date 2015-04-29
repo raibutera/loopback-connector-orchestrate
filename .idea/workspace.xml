@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reference/sails-orchestrate/build-where.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orchestrate.js" afterPath="$PROJECT_DIR$/lib/orchestrate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="loopback-connector-orchestrate.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="loopback-connector-orchestrate" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.6296296">
+                  <caret line="336" column="69" selection-start-line="336" selection-start-column="69" selection-end-line="336" selection-end-column="69" />
+                  <folding>
+                    <element signature="e#342#524#0" expanded="false" />
+                    <element signature="e#598#1006#0" expanded="false" />
+                    <element signature="e#618#641#0" expanded="false" />
+                    <element signature="e#946#1004#0" expanded="false" />
+                    <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
+                    <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
+                    <element signature="e#1362#1422#0" expanded="false" />
+                    <element signature="e#1572#1767#0" expanded="false" />
+                    <element signature="e#1879#2020#0" expanded="false" />
+                    <element signature="e#1918#2012#0" expanded="false" />
+                    <element signature="e#1946#2002#0" expanded="false" />
+                    <element signature="e#2162#2418#0" expanded="false" />
+                    <element signature="e#2196#2284#0" expanded="false" />
+                    <element signature="e#2345#2404#0" expanded="false" />
+                    <element signature="e#2454#2700#0" expanded="false" />
+                    <element signature="e#2501#2595#0" expanded="false" />
+                    <element signature="e#2626#2686#0" expanded="false" />
+                    <element signature="e#2713#2854#0" expanded="false" />
+                    <element signature="e#3024#3069#0" expanded="false" />
+                    <element signature="e#3088#3158#0" expanded="false" />
+                    <element signature="e#3902#3934#0" expanded="false" />
+                    <element signature="e#4457#4524#0" expanded="false" />
+                    <element signature="e#5097#5146#0" expanded="false" />
+                    <element signature="e#5218#6008#0" expanded="false" />
+                    <element signature="e#6010#6148#0" expanded="false" />
+                    <element signature="e#6606#6741#0" expanded="false" />
+                    <element signature="e#6855#6913#0" expanded="false" />
+                    <element signature="e#7432#7517#0" expanded="false" />
+                    <element signature="e#8135#8294#0" expanded="false" />
+                    <element signature="e#8829#8869#0" expanded="false" />
+                    <element signature="e#9109#9690#0" expanded="false" />
+                    <element signature="e#9189#9469#0" expanded="false" />
+                    <element signature="e#9223#9394#0" expanded="false" />
+                    <element signature="e#9506#9682#0" expanded="false" />
+                    <element signature="e#9540#9623#0" expanded="false" />
+                    <element signature="e#9847#9893#0" expanded="false" />
+                    <element signature="e#10183#10220#0" expanded="false" />
+                    <element signature="e#10622#10680#0" expanded="false" />
+                    <element signature="e#10904#10963#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connector.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/reference/connector.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connection.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/connection.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="orctools.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/orctools.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="build-where.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/build-where.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.04527297">
+                  <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding>
+                    <marker date="1430321920000" expanded="true" signature="761:809" placeholder="{...}" />
+                    <marker date="1430321920000" expanded="true" signature="831:873" placeholder="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mongodb.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.14917128">
+                  <caret line="468" column="17" selection-start-line="467" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#241#361#0" expanded="false" />
+                    <element signature="n#!!block;n#ObjectID#0" expanded="false" />
+                    <element signature="e#877#929#0" expanded="false" />
+                    <element signature="n#!!block;n#generateMongoDBURL#0" expanded="false" />
+                    <element signature="e#1477#1659#0" expanded="false" />
+                    <element signature="e#1733#2056#0" expanded="false" />
+                    <element signature="n#!!doc;n#MongoDB#0" expanded="false" />
+                    <element signature="n#!!block;n#MongoDB#0" expanded="false" />
+                    <element signature="e#2501#2686#0" expanded="false" />
+                    <element signature="e#2735#3315#0" expanded="false" />
+                    <element signature="e#3359#3399#0" expanded="false" />
+                    <element signature="e#3451#3473#0" expanded="false" />
+                    <element signature="e#3476#3584#0" expanded="false" />
+                    <element signature="e#3633#3898#0" expanded="false" />
+                    <element signature="e#4623#4813#0" expanded="false" />
+                    <element signature="e#5925#6111#0" expanded="false" />
+                    <element signature="e#7277#7453#0" expanded="false" />
+                    <element signature="e#7512#7803#0" expanded="false" />
+                    <element signature="e#7806#7968#0" expanded="false" />
+                    <element signature="e#8029#8795#0" expanded="false" />
+                    <element signature="e#8798#8938#0" expanded="false" />
+                    <element signature="e#8997#9945#0" expanded="false" />
+                    <element signature="e#9948#10181#0" expanded="false" />
+                    <element signature="e#10264#11354#0" expanded="false" />
+                    <element signature="e#10619#10637#0" expanded="false" />
+                    <element signature="e#11357#11510#0" expanded="false" />
+                    <element signature="e#11616#11653#0" expanded="false" />
+                    <element signature="e#11890#11992#0" expanded="false" />
+                    <element signature="n#!!block;n#idIncluded#0" expanded="false" />
+                    <element signature="e#14058#14246#0" expanded="false" />
+                    <element signature="e#14309#16454#0" expanded="false" />
+                    <element signature="e#16457#16650#0" expanded="false" />
+                    <element signature="e#17278#17485#0" expanded="false" />
+                    <element signature="e#17551#17856#0" expanded="false" />
+                    <element signature="e#17859#18048#0" expanded="false" />
+                    <element signature="e#18128#18863#0" expanded="false" />
+                    <element signature="e#18866#19099#0" expanded="false" />
+                    <element signature="e#19202#19882#0" expanded="false" />
+                    <element signature="e#19885#19919#0" expanded="false" />
+                    <element signature="e#19963#20057#0" expanded="false" />
+                    <element signature="e#20060#20300#0" expanded="false" />
+                    <element signature="e#20354#23331#0" expanded="false" />
+                    <element signature="e#23660#24895#0" expanded="false" />
+                    <element signature="e#24937#25234#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="adapter.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/adapter.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-12.333333">
+                  <caret line="517" column="21" selection-start-line="517" selection-start-column="11" selection-end-line="517" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lucene.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/lucene.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reference/mongodb.js" />
+        <option value="$PROJECT_DIR$/test/fakedata/characters.json" />
+        <option value="$PROJECT_DIR$/lib/connection.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+        <option value="$PROJECT_DIR$/test/sandbox/index.js" />
+        <option value="$PROJECT_DIR$/lib/orctools.js" />
+        <option value="$PROJECT_DIR$/test/sandbox/sandbox.js" />
+        <option value="$PROJECT_DIR$/lib/orchestrate.js" />
+        <option value="$PROJECT_DIR$/reference/sails-orchestrate/build-where.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
+    <option name="y" value="23" />
+    <option name="width" value="2512" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fakedata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reference" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reference" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sails-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loopback-connector-orchestrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="adapter.js&#9;FILE&#9;file:///Users/rai/dev/loopback-connector-orchestrate/reference/sails-orchestrate/adapter.js&#10;mongodb&#9;FILE&#9;file:///Users/rai/dev/loopback-connector-orchestrate/reference/mongodb.js&#10;live&#9;ACTION&#9;InsertLiveTemplate" />
+    <property name="com.intellij.ide.scratch.NewScratchFileAction" value="JavaScript" />
+  </component>
+  <component name="RunManager" selected="Node.js.sandbox">
+    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/v0.10.37/bin/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/test/sandbox">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="sandbox" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/v0.10.37/bin/node" path-to-js-file="sandbox.js" working-dir="$PROJECT_DIR$/test/sandbox">
+      <envs>
+        <env name="DEBUG" value="loopback:connector:orchestrate:SANDBOX" />
+      </envs>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.sandbox" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="" />
+      <created>1430252055651</created>
+      <option name="number" value="Default" />
+      <updated>1430252055651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="11" y="23" width="2512" height="1413" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19068646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993832" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3993832" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>155</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>278</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>535</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>662</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>718</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>334</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reference/mongodb.js</url>
+          <line>632</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022636484">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/norm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.701731">
+          <caret line="31" column="3" selection-start-line="24" selection-start-column="6" selection-end-line="31" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1430321920000" expanded="true" signature="761:809" placeholder="{...}" />
+            <marker date="1430321920000" expanded="true" signature="831:873" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fakedata/characters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3048276">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/orctools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/connector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/lucene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/adapter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.333333">
+          <caret line="517" column="21" selection-start-line="517" selection-start-column="11" selection-end-line="517" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.14917128">
+          <caret line="468" column="17" selection-start-line="467" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#361#0" expanded="false" />
+            <element signature="n#!!block;n#ObjectID#0" expanded="false" />
+            <element signature="e#877#929#0" expanded="false" />
+            <element signature="n#!!block;n#generateMongoDBURL#0" expanded="false" />
+            <element signature="e#1477#1659#0" expanded="false" />
+            <element signature="e#1733#2056#0" expanded="false" />
+            <element signature="n#!!doc;n#MongoDB#0" expanded="false" />
+            <element signature="n#!!block;n#MongoDB#0" expanded="false" />
+            <element signature="e#2501#2686#0" expanded="false" />
+            <element signature="e#2735#3315#0" expanded="false" />
+            <element signature="e#3359#3399#0" expanded="false" />
+            <element signature="e#3451#3473#0" expanded="false" />
+            <element signature="e#3476#3584#0" expanded="false" />
+            <element signature="e#3633#3898#0" expanded="false" />
+            <element signature="e#4623#4813#0" expanded="false" />
+            <element signature="e#5925#6111#0" expanded="false" />
+            <element signature="e#7277#7453#0" expanded="false" />
+            <element signature="e#7512#7803#0" expanded="false" />
+            <element signature="e#7806#7968#0" expanded="false" />
+            <element signature="e#8029#8795#0" expanded="false" />
+            <element signature="e#8798#8938#0" expanded="false" />
+            <element signature="e#8997#9945#0" expanded="false" />
+            <element signature="e#9948#10181#0" expanded="false" />
+            <element signature="e#10264#11354#0" expanded="false" />
+            <element signature="e#10619#10637#0" expanded="false" />
+            <element signature="e#11357#11510#0" expanded="false" />
+            <element signature="e#11616#11653#0" expanded="false" />
+            <element signature="e#11890#11992#0" expanded="false" />
+            <element signature="n#!!block;n#idIncluded#0" expanded="false" />
+            <element signature="e#14058#14246#0" expanded="false" />
+            <element signature="e#14309#16454#0" expanded="false" />
+            <element signature="e#16457#16650#0" expanded="false" />
+            <element signature="e#17278#17485#0" expanded="false" />
+            <element signature="e#17551#17856#0" expanded="false" />
+            <element signature="e#17859#18048#0" expanded="false" />
+            <element signature="e#18128#18863#0" expanded="false" />
+            <element signature="e#18866#19099#0" expanded="false" />
+            <element signature="e#19202#19882#0" expanded="false" />
+            <element signature="e#19885#19919#0" expanded="false" />
+            <element signature="e#19963#20057#0" expanded="false" />
+            <element signature="e#20060#20300#0" expanded="false" />
+            <element signature="e#20354#23331#0" expanded="false" />
+            <element signature="e#23660#24895#0" expanded="false" />
+            <element signature="e#24937#25234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6296296">
+          <caret line="336" column="69" selection-start-line="336" selection-start-column="69" selection-end-line="336" selection-end-column="69" />
+          <folding>
+            <element signature="e#342#524#0" expanded="false" />
+            <element signature="e#598#1006#0" expanded="false" />
+            <element signature="e#618#641#0" expanded="false" />
+            <element signature="e#946#1004#0" expanded="false" />
+            <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
+            <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
+            <element signature="e#1362#1422#0" expanded="false" />
+            <element signature="e#1572#1767#0" expanded="false" />
+            <element signature="e#1879#2020#0" expanded="false" />
+            <element signature="e#1918#2012#0" expanded="false" />
+            <element signature="e#1946#2002#0" expanded="false" />
+            <element signature="e#2162#2418#0" expanded="false" />
+            <element signature="e#2196#2284#0" expanded="false" />
+            <element signature="e#2345#2404#0" expanded="false" />
+            <element signature="e#2454#2700#0" expanded="false" />
+            <element signature="e#2501#2595#0" expanded="false" />
+            <element signature="e#2626#2686#0" expanded="false" />
+            <element signature="e#2713#2854#0" expanded="false" />
+            <element signature="e#3024#3069#0" expanded="false" />
+            <element signature="e#3088#3158#0" expanded="false" />
+            <element signature="e#3902#3934#0" expanded="false" />
+            <element signature="e#4457#4524#0" expanded="false" />
+            <element signature="e#5097#5146#0" expanded="false" />
+            <element signature="e#5218#6008#0" expanded="false" />
+            <element signature="e#6010#6148#0" expanded="false" />
+            <element signature="e#6606#6741#0" expanded="false" />
+            <element signature="e#6855#6913#0" expanded="false" />
+            <element signature="e#7432#7517#0" expanded="false" />
+            <element signature="e#8135#8294#0" expanded="false" />
+            <element signature="e#8829#8869#0" expanded="false" />
+            <element signature="e#9109#9690#0" expanded="false" />
+            <element signature="e#9189#9469#0" expanded="false" />
+            <element signature="e#9223#9394#0" expanded="false" />
+            <element signature="e#9506#9682#0" expanded="false" />
+            <element signature="e#9540#9623#0" expanded="false" />
+            <element signature="e#9847#9893#0" expanded="false" />
+            <element signature="e#10183#10220#0" expanded="false" />
+            <element signature="e#10622#10680#0" expanded="false" />
+            <element signature="e#10904#10963#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/build-where.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04527297">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[
+  {
+    "givenName": "Falco",
+    "familyName": "Lombardi",
+    "debut": 1994,
+    "series": "Starfox"
+  },
+  {
+    "givenName": "Marth",
+    "familyName": "Altea",
+    "debut": 1990,
+    "series": "Fire Emblem"
+  }
+]
