@@ -21,7 +21,7 @@ db.ping().then(function () {
 // });
 
 
-db.get('testing', 'lol').then(function (success) {
+db.get('testing', 'foo').then(function (success) {
     debug('success:', success);
 }).fail(function (err) {
     debug('error:', err.toJSON());

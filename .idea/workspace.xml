@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/sandbox/index.js" afterPath="$PROJECT_DIR$/test/sandbox/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/sandbox/index.js" afterPath="$PROJECT_DIR$/test/sandbox/sandbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orchestrate.js" afterPath="$PROJECT_DIR$/lib/orchestrate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orctools.js" afterPath="$PROJECT_DIR$/lib/orctools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loopback-connector-orchestrate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +28,8 @@
       <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4300932">
-              <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.31691077">
+              <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/sandbox/index.js">
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -122,6 +122,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
         <option value="$PROJECT_DIR$/lib/orctools.js" />
         <option value="$PROJECT_DIR$/test/sandbox/index.js" />
+        <option value="$PROJECT_DIR$/test/sandbox/sandbox.js" />
         <option value="$PROJECT_DIR$/lib/orchestrate.js" />
       </list>
     </option>
@@ -295,15 +296,15 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <configuration default="false" name="sandbox" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/v0.10.37/bin/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/test/sandbox">
+    <configuration default="false" name="sandbox" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/v0.10.37/bin/node" path-to-js-file="sandbox.js" working-dir="$PROJECT_DIR$/test/sandbox">
       <envs>
         <env name="DEBUG" value="loopback:connector:orchestrate:SANDBOX" />
       </envs>
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.sandbox" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.sandbox" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -398,10 +399,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/sandbox/index.js">
+    <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -434,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4300932">
-          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.31691077">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
