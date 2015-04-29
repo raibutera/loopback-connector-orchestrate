@@ -21,7 +21,13 @@ db.ping().then(function () {
 // });
 
 
-db.get('testing', 'foo').then(function (success) {
+//db.get('testing', 'foo').then(function (success) {
+//    debug('success:', success.toJSON());
+//}).fail(function (err) {
+//    debug('error:', err.toJSON());
+//});
+
+db.put('testing', 'foo', {'bestMove': 'dair'}).then(function (success) {
     debug('success:', success.toJSON());
 }).fail(function (err) {
     debug('error:', err.toJSON());

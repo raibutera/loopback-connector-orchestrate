@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c58bab00-b211-4c3a-9bdd-0c4607eb111e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/orchestrate.js" afterPath="$PROJECT_DIR$/lib/orchestrate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/sandbox/sandbox.js" afterPath="$PROJECT_DIR$/test/sandbox/sandbox.js" />
     </list>
     <ignored path="loopback-connector-orchestrate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,39 +29,32 @@
           <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5885486">
-                  <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+                <state vertical-scroll-proportion="0.7762983">
+                  <caret line="171" column="56" selection-start-line="171" selection-start-column="56" selection-end-line="171" selection-end-column="56" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                     <element signature="e#342#524#0" expanded="false" />
-                    <element signature="e#598#1006#0" expanded="false" />
                     <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
                     <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
                     <element signature="e#1572#1767#0" expanded="false" />
-                    <element signature="e#1839#2710#0" expanded="false" />
                     <element signature="e#2713#2854#0" expanded="false" />
-                    <element signature="e#2928#3873#0" expanded="false" />
                     <element signature="e#3876#3908#0" expanded="false" />
-                    <element signature="e#3980#4119#0" expanded="false" />
-                    <element signature="e#4122#4171#0" expanded="false" />
-                    <element signature="e#4243#5033#0" expanded="false" />
-                    <element signature="e#5035#5173#0" expanded="false" />
-                    <element signature="e#5247#6454#0" expanded="false" />
-                    <element signature="e#6457#6542#0" expanded="false" />
-                    <element signature="e#6638#6797#0" expanded="false" />
-                    <element signature="e#6800#6840#0" expanded="false" />
-                    <element signature="e#6920#8083#0" expanded="false" />
-                    <element signature="e#7017#7061#0" expanded="false" />
-                    <element signature="e#7068#8081#0" expanded="false" />
-                    <element signature="e#8086#8132#0" expanded="false" />
-                    <element signature="e#8208#8347#0" expanded="false" />
-                    <element signature="e#8301#8345#0" expanded="false" />
-                    <element signature="e#8350#8387#0" expanded="false" />
-                    <element signature="e#8476#8628#0" expanded="false" />
-                    <element signature="e#8631#8689#0" expanded="false" />
-                    <element signature="e#8768#8910#0" expanded="false" />
-                    <element signature="e#8913#8972#0" expanded="false" />
-                    <element signature="e#9071#9238#0" expanded="false" />
+                    <element signature="e#5071#5120#0" expanded="false" />
+                    <element signature="e#5192#5982#0" expanded="false" />
+                    <element signature="e#5984#6122#0" expanded="false" />
+                    <element signature="e#6196#7403#0" expanded="false" />
+                    <element signature="e#7406#7491#0" expanded="false" />
+                    <element signature="e#7749#7789#0" expanded="false" />
+                    <element signature="e#7869#9032#0" expanded="false" />
+                    <element signature="e#7966#8010#0" expanded="false" />
+                    <element signature="e#8017#9030#0" expanded="false" />
+                    <element signature="e#9035#9081#0" expanded="false" />
+                    <element signature="e#9157#9296#0" expanded="false" />
+                    <element signature="e#9250#9294#0" expanded="false" />
+                    <element signature="e#9299#9336#0" expanded="false" />
+                    <element signature="e#9580#9638#0" expanded="false" />
+                    <element signature="e#9862#9921#0" expanded="false" />
+                    <element signature="e#10020#10187#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -71,26 +65,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="characters.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test/fakedata/characters.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.5">
-                  <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -127,16 +101,19 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
                   <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                  <folding />
+                  <folding>
+                    <marker date="1430321920000" expanded="true" signature="761:809" placeholder="{...}" />
+                    <marker date="1430321920000" expanded="true" signature="831:873" placeholder="{...}" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mongodb.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="mongodb.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-25.074074">
-                  <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
+                <state vertical-scroll-proportion="0.30939227">
+                  <caret line="265" column="58" selection-start-line="265" selection-start-column="58" selection-end-line="265" selection-end-column="58" />
                   <folding>
                     <element signature="e#241#361#0" expanded="false" />
                     <element signature="n#!!block;n#ObjectID#0" expanded="false" />
@@ -152,20 +129,19 @@
                     <element signature="e#3451#3473#0" expanded="false" />
                     <element signature="e#3476#3584#0" expanded="false" />
                     <element signature="e#3633#3898#0" expanded="false" />
-                    <element signature="e#4091#4620#0" expanded="false" />
                     <element signature="e#4623#4813#0" expanded="false" />
-                    <element signature="e#4874#5922#0" expanded="false" />
                     <element signature="e#5925#6111#0" expanded="false" />
-                    <element signature="e#6170#7274#0" expanded="false" />
                     <element signature="e#7277#7453#0" expanded="false" />
                     <element signature="e#7512#7803#0" expanded="false" />
                     <element signature="e#7806#7968#0" expanded="false" />
+                    <element signature="e#8029#8795#0" expanded="false" />
                     <element signature="e#8798#8938#0" expanded="false" />
                     <element signature="e#8997#9945#0" expanded="false" />
                     <element signature="e#9948#10181#0" expanded="false" />
                     <element signature="e#10264#11354#0" expanded="false" />
                     <element signature="e#11357#11510#0" expanded="false" />
                     <element signature="e#11577#11887#0" expanded="false" />
+                    <element signature="e#11616#11653#0" expanded="false" />
                     <element signature="e#11890#11992#0" expanded="false" />
                     <element signature="n#!!block;n#idIncluded#0" expanded="false" />
                     <element signature="e#12447#14056#0" expanded="false" />
@@ -183,7 +159,6 @@
                     <element signature="e#19963#20057#0" expanded="false" />
                     <element signature="e#20060#20300#0" expanded="false" />
                     <element signature="e#20354#23331#0" expanded="false" />
-                    <element signature="e#23334#23605#0" expanded="false" />
                     <element signature="e#23660#24895#0" expanded="false" />
                     <element signature="e#24937#25234#0" expanded="false" />
                   </folding>
@@ -191,10 +166,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="adapter.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="adapter.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/adapter.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.7203728">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
@@ -223,8 +198,8 @@
         <option value="$PROJECT_DIR$/lib/connection.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
         <option value="$PROJECT_DIR$/test/sandbox/index.js" />
-        <option value="$PROJECT_DIR$/test/sandbox/sandbox.js" />
         <option value="$PROJECT_DIR$/lib/orctools.js" />
+        <option value="$PROJECT_DIR$/test/sandbox/sandbox.js" />
         <option value="$PROJECT_DIR$/lib/orchestrate.js" />
       </list>
     </option>
@@ -511,6 +486,11 @@
           <line>42</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/orchestrate.js</url>
+          <line>215</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -520,7 +500,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -541,10 +521,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/orctools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/adapter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1430321920000" expanded="true" signature="761:809" placeholder="{...}" />
+            <marker date="1430321920000" expanded="true" signature="831:873" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fakedata/characters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3048276">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/connector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reference/mongodb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.074074">
-          <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.30939227">
+          <caret line="265" column="58" selection-start-line="265" selection-start-column="58" selection-end-line="265" selection-end-column="58" />
           <folding>
             <element signature="e#241#361#0" expanded="false" />
             <element signature="n#!!block;n#ObjectID#0" expanded="false" />
@@ -560,20 +593,19 @@
             <element signature="e#3451#3473#0" expanded="false" />
             <element signature="e#3476#3584#0" expanded="false" />
             <element signature="e#3633#3898#0" expanded="false" />
-            <element signature="e#4091#4620#0" expanded="false" />
             <element signature="e#4623#4813#0" expanded="false" />
-            <element signature="e#4874#5922#0" expanded="false" />
             <element signature="e#5925#6111#0" expanded="false" />
-            <element signature="e#6170#7274#0" expanded="false" />
             <element signature="e#7277#7453#0" expanded="false" />
             <element signature="e#7512#7803#0" expanded="false" />
             <element signature="e#7806#7968#0" expanded="false" />
+            <element signature="e#8029#8795#0" expanded="false" />
             <element signature="e#8798#8938#0" expanded="false" />
             <element signature="e#8997#9945#0" expanded="false" />
             <element signature="e#9948#10181#0" expanded="false" />
             <element signature="e#10264#11354#0" expanded="false" />
             <element signature="e#11357#11510#0" expanded="false" />
             <element signature="e#11577#11887#0" expanded="false" />
+            <element signature="e#11616#11653#0" expanded="false" />
             <element signature="e#11890#11992#0" expanded="false" />
             <element signature="n#!!block;n#idIncluded#0" expanded="false" />
             <element signature="e#12447#14056#0" expanded="false" />
@@ -591,98 +623,40 @@
             <element signature="e#19963#20057#0" expanded="false" />
             <element signature="e#20060#20300#0" expanded="false" />
             <element signature="e#20354#23331#0" expanded="false" />
-            <element signature="e#23334#23605#0" expanded="false" />
             <element signature="e#23660#24895#0" expanded="false" />
             <element signature="e#24937#25234#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reference/connector.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/fakedata/characters.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/sandbox/sandbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/connection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/orctools.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reference/sails-orchestrate/adapter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7203728">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5885486">
-          <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.7762983">
+          <caret line="171" column="56" selection-start-line="171" selection-start-column="56" selection-end-line="171" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#342#524#0" expanded="false" />
-            <element signature="e#598#1006#0" expanded="false" />
             <element signature="n#!!doc;n#OrchestrateConnector#0" expanded="false" />
             <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
             <element signature="e#1572#1767#0" expanded="false" />
-            <element signature="e#1839#2710#0" expanded="false" />
             <element signature="e#2713#2854#0" expanded="false" />
-            <element signature="e#2928#3873#0" expanded="false" />
             <element signature="e#3876#3908#0" expanded="false" />
-            <element signature="e#3980#4119#0" expanded="false" />
-            <element signature="e#4122#4171#0" expanded="false" />
-            <element signature="e#4243#5033#0" expanded="false" />
-            <element signature="e#5035#5173#0" expanded="false" />
-            <element signature="e#5247#6454#0" expanded="false" />
-            <element signature="e#6457#6542#0" expanded="false" />
-            <element signature="e#6638#6797#0" expanded="false" />
-            <element signature="e#6800#6840#0" expanded="false" />
-            <element signature="e#6920#8083#0" expanded="false" />
-            <element signature="e#7017#7061#0" expanded="false" />
-            <element signature="e#7068#8081#0" expanded="false" />
-            <element signature="e#8086#8132#0" expanded="false" />
-            <element signature="e#8208#8347#0" expanded="false" />
-            <element signature="e#8301#8345#0" expanded="false" />
-            <element signature="e#8350#8387#0" expanded="false" />
-            <element signature="e#8476#8628#0" expanded="false" />
-            <element signature="e#8631#8689#0" expanded="false" />
-            <element signature="e#8768#8910#0" expanded="false" />
-            <element signature="e#8913#8972#0" expanded="false" />
-            <element signature="e#9071#9238#0" expanded="false" />
+            <element signature="e#5071#5120#0" expanded="false" />
+            <element signature="e#5192#5982#0" expanded="false" />
+            <element signature="e#5984#6122#0" expanded="false" />
+            <element signature="e#6196#7403#0" expanded="false" />
+            <element signature="e#7406#7491#0" expanded="false" />
+            <element signature="e#7749#7789#0" expanded="false" />
+            <element signature="e#7869#9032#0" expanded="false" />
+            <element signature="e#7966#8010#0" expanded="false" />
+            <element signature="e#8017#9030#0" expanded="false" />
+            <element signature="e#9035#9081#0" expanded="false" />
+            <element signature="e#9157#9296#0" expanded="false" />
+            <element signature="e#9250#9294#0" expanded="false" />
+            <element signature="e#9299#9336#0" expanded="false" />
+            <element signature="e#9580#9638#0" expanded="false" />
+            <element signature="e#9862#9921#0" expanded="false" />
+            <element signature="e#10020#10187#0" expanded="false" />
           </folding>
         </state>
       </provider>
