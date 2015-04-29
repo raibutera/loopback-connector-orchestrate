@@ -28,10 +28,21 @@
           <file leaf-file-name="orchestrate.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.36218375">
-                  <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
+                <state vertical-scroll-proportion="0.40745673">
+                  <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
+                    <element signature="e#598#1003#0" expanded="false" />
+                    <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
+                    <element signature="e#1826#2697#0" expanded="false" />
+                    <element signature="e#3967#4106#0" expanded="false" />
+                    <element signature="e#4230#5020#0" expanded="false" />
+                    <element signature="e#5792#5951#0" expanded="false" />
+                    <element signature="e#6074#7237#0" expanded="false" />
+                    <element signature="e#7362#7501#0" expanded="false" />
+                    <element signature="e#7630#7782#0" expanded="false" />
+                    <element signature="e#7922#8064#0" expanded="false" />
+                    <element signature="e#8225#8392#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -477,6 +488,16 @@
           <line>718</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/orchestrate.js</url>
+          <line>299</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/orchestrate.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -486,7 +507,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -616,10 +637,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/orchestrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36218375">
-          <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.40745673">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#598#1003#0" expanded="false" />
+            <element signature="n#!!block;n#OrchestrateConnector#0" expanded="false" />
+            <element signature="e#1826#2697#0" expanded="false" />
+            <element signature="e#3967#4106#0" expanded="false" />
+            <element signature="e#4230#5020#0" expanded="false" />
+            <element signature="e#5792#5951#0" expanded="false" />
+            <element signature="e#6074#7237#0" expanded="false" />
+            <element signature="e#7362#7501#0" expanded="false" />
+            <element signature="e#7630#7782#0" expanded="false" />
+            <element signature="e#7922#8064#0" expanded="false" />
+            <element signature="e#8225#8392#0" expanded="false" />
           </folding>
         </state>
       </provider>
