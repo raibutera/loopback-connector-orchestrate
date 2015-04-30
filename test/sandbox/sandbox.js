@@ -27,8 +27,20 @@ db.ping().then(function () {
 //    debug('error:', err.toJSON());
 //});
 
-db.put('testing', 'foo', {'bestMove': 'dair'}).then(function (success) {
-    debug('success:', success.toJSON());
-}).fail(function (err) {
-    debug('error:', err.toJSON());
-});
+//db.put('testing', 'foo', {'bestMove': 'dair'}).then(function (success) {
+//    debug('success:', success.toJSON());
+//}).fail(function (err) {
+//    debug('error:', err.toJSON());
+//});
+
+
+db.merge('testing', 'foo', {
+    "bestMove": "Pillar",
+    "playedBy": ["Mango", "chillindude829", "Shiz", "M2K", "J3LY"]
+})
+    .then(function (result) {
+        debug('result', result.toJSON());
+    })
+    .fail(function (err) {
+        debug('err', err);
+    });
