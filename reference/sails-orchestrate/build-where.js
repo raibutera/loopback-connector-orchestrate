@@ -1,6 +1,15 @@
+
+
+
 var _ = require('lodash');
 
-module.exports = function buildWhere(model, where) {
+/**
+ * builds a
+ * @param model
+ * @param where
+ * @returns {{}}
+ */
+function buildWhere(model, where) {
     var self = this;
     var query = {};
     if (where === null || (typeof where !== 'object')) {
@@ -62,5 +71,6 @@ module.exports = function buildWhere(model, where) {
         }
     });
     return query;
-
 };
+
+module.exports = buildWhere;
